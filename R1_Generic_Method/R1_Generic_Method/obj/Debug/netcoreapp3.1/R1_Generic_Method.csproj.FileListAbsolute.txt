@@ -1,0 +1,14 @@
+D:\RFP\FindMaxProblem_Generics\R1_Generic_Method\R1_Generic_Method\bin\Debug\netcoreapp3.1\R1_Generic_Method.exe
+D:\RFP\FindMaxProblem_Generics\R1_Generic_Method\R1_Generic_Method\bin\Debug\netcoreapp3.1\R1_Generic_Method.deps.json
+D:\RFP\FindMaxProblem_Generics\R1_Generic_Method\R1_Generic_Method\bin\Debug\netcoreapp3.1\R1_Generic_Method.runtimeconfig.json
+D:\RFP\FindMaxProblem_Generics\R1_Generic_Method\R1_Generic_Method\bin\Debug\netcoreapp3.1\R1_Generic_Method.runtimeconfig.dev.json
+D:\RFP\FindMaxProblem_Generics\R1_Generic_Method\R1_Generic_Method\bin\Debug\netcoreapp3.1\R1_Generic_Method.dll
+D:\RFP\FindMaxProblem_Generics\R1_Generic_Method\R1_Generic_Method\bin\Debug\netcoreapp3.1\R1_Generic_Method.pdb
+D:\RFP\FindMaxProblem_Generics\R1_Generic_Method\R1_Generic_Method\obj\Debug\netcoreapp3.1\R1_Generic_Method.csproj.AssemblyReference.cache
+D:\RFP\FindMaxProblem_Generics\R1_Generic_Method\R1_Generic_Method\obj\Debug\netcoreapp3.1\R1_Generic_Method.GeneratedMSBuildEditorConfig.editorconfig
+D:\RFP\FindMaxProblem_Generics\R1_Generic_Method\R1_Generic_Method\obj\Debug\netcoreapp3.1\R1_Generic_Method.AssemblyInfoInputs.cache
+D:\RFP\FindMaxProblem_Generics\R1_Generic_Method\R1_Generic_Method\obj\Debug\netcoreapp3.1\R1_Generic_Method.AssemblyInfo.cs
+D:\RFP\FindMaxProblem_Generics\R1_Generic_Method\R1_Generic_Method\obj\Debug\netcoreapp3.1\R1_Generic_Method.csproj.CoreCompileInputs.cache
+D:\RFP\FindMaxProblem_Generics\R1_Generic_Method\R1_Generic_Method\obj\Debug\netcoreapp3.1\R1_Generic_Method.dll
+D:\RFP\FindMaxProblem_Generics\R1_Generic_Method\R1_Generic_Method\obj\Debug\netcoreapp3.1\R1_Generic_Method.pdb
+D:\RFP\FindMaxProblem_Generics\R1_Generic_Method\R1_Generic_Method\obj\Debug\netcoreapp3.1\R1_Generic_Method.genruntimeconfig.cache
