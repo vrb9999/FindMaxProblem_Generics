@@ -1,0 +1,14 @@
+D:\RFP\FindMaxProblem_Generics\PrintMaxValue\PrintMaxValue\bin\Debug\netcoreapp3.1\PrintMaxValue.exe
+D:\RFP\FindMaxProblem_Generics\PrintMaxValue\PrintMaxValue\bin\Debug\netcoreapp3.1\PrintMaxValue.deps.json
+D:\RFP\FindMaxProblem_Generics\PrintMaxValue\PrintMaxValue\bin\Debug\netcoreapp3.1\PrintMaxValue.runtimeconfig.json
+D:\RFP\FindMaxProblem_Generics\PrintMaxValue\PrintMaxValue\bin\Debug\netcoreapp3.1\PrintMaxValue.runtimeconfig.dev.json
+D:\RFP\FindMaxProblem_Generics\PrintMaxValue\PrintMaxValue\bin\Debug\netcoreapp3.1\PrintMaxValue.dll
+D:\RFP\FindMaxProblem_Generics\PrintMaxValue\PrintMaxValue\bin\Debug\netcoreapp3.1\PrintMaxValue.pdb
+D:\RFP\FindMaxProblem_Generics\PrintMaxValue\PrintMaxValue\obj\Debug\netcoreapp3.1\PrintMaxValue.csproj.AssemblyReference.cache
+D:\RFP\FindMaxProblem_Generics\PrintMaxValue\PrintMaxValue\obj\Debug\netcoreapp3.1\PrintMaxValue.GeneratedMSBuildEditorConfig.editorconfig
+D:\RFP\FindMaxProblem_Generics\PrintMaxValue\PrintMaxValue\obj\Debug\netcoreapp3.1\PrintMaxValue.AssemblyInfoInputs.cache
+D:\RFP\FindMaxProblem_Generics\PrintMaxValue\PrintMaxValue\obj\Debug\netcoreapp3.1\PrintMaxValue.AssemblyInfo.cs
+D:\RFP\FindMaxProblem_Generics\PrintMaxValue\PrintMaxValue\obj\Debug\netcoreapp3.1\PrintMaxValue.csproj.CoreCompileInputs.cache
+D:\RFP\FindMaxProblem_Generics\PrintMaxValue\PrintMaxValue\obj\Debug\netcoreapp3.1\PrintMaxValue.dll
+D:\RFP\FindMaxProblem_Generics\PrintMaxValue\PrintMaxValue\obj\Debug\netcoreapp3.1\PrintMaxValue.pdb
+D:\RFP\FindMaxProblem_Generics\PrintMaxValue\PrintMaxValue\obj\Debug\netcoreapp3.1\PrintMaxValue.genruntimeconfig.cache

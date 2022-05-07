@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintMaxValue", "PrintMaxValue\PrintMaxValue.csproj", "{2D4F3130-85F8-4940-831B-540487C5EEE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintMaxValueTests", "PrintMaxValueTests\PrintMaxValueTests.csproj", "{BAC4D37B-AF9B-4B93-8ADA-4EDCC66F7D08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D4F3130-85F8-4940-831B-540487C5EEE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D4F3130-85F8-4940-831B-540487C5EEE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D4F3130-85F8-4940-831B-540487C5EEE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D4F3130-85F8-4940-831B-540487C5EEE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAC4D37B-AF9B-4B93-8ADA-4EDCC66F7D08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAC4D37B-AF9B-4B93-8ADA-4EDCC66F7D08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAC4D37B-AF9B-4B93-8ADA-4EDCC66F7D08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAC4D37B-AF9B-4B93-8ADA-4EDCC66F7D08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4261EEF7-FED4-4F0E-969F-532E1F5425EF}
+	EndGlobalSection
+EndGlobal
