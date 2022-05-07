@@ -1,0 +1,13 @@
+D:\RFP\FindMaxProblem_Generics\FloatMaximum\FloatMaximum\bin\Debug\netcoreapp3.1\FloatMaximum.exe
+D:\RFP\FindMaxProblem_Generics\FloatMaximum\FloatMaximum\bin\Debug\netcoreapp3.1\FloatMaximum.deps.json
+D:\RFP\FindMaxProblem_Generics\FloatMaximum\FloatMaximum\bin\Debug\netcoreapp3.1\FloatMaximum.runtimeconfig.json
+D:\RFP\FindMaxProblem_Generics\FloatMaximum\FloatMaximum\bin\Debug\netcoreapp3.1\FloatMaximum.runtimeconfig.dev.json
+D:\RFP\FindMaxProblem_Generics\FloatMaximum\FloatMaximum\bin\Debug\netcoreapp3.1\FloatMaximum.dll
+D:\RFP\FindMaxProblem_Generics\FloatMaximum\FloatMaximum\bin\Debug\netcoreapp3.1\FloatMaximum.pdb
+D:\RFP\FindMaxProblem_Generics\FloatMaximum\FloatMaximum\obj\Debug\netcoreapp3.1\FloatMaximum.GeneratedMSBuildEditorConfig.editorconfig
+D:\RFP\FindMaxProblem_Generics\FloatMaximum\FloatMaximum\obj\Debug\netcoreapp3.1\FloatMaximum.AssemblyInfoInputs.cache
+D:\RFP\FindMaxProblem_Generics\FloatMaximum\FloatMaximum\obj\Debug\netcoreapp3.1\FloatMaximum.AssemblyInfo.cs
+D:\RFP\FindMaxProblem_Generics\FloatMaximum\FloatMaximum\obj\Debug\netcoreapp3.1\FloatMaximum.csproj.CoreCompileInputs.cache
+D:\RFP\FindMaxProblem_Generics\FloatMaximum\FloatMaximum\obj\Debug\netcoreapp3.1\FloatMaximum.dll
+D:\RFP\FindMaxProblem_Generics\FloatMaximum\FloatMaximum\obj\Debug\netcoreapp3.1\FloatMaximum.pdb
+D:\RFP\FindMaxProblem_Generics\FloatMaximum\FloatMaximum\obj\Debug\netcoreapp3.1\FloatMaximum.genruntimeconfig.cache
